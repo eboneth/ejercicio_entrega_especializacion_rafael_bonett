@@ -7,8 +7,5 @@ adicional a la compra de juego fisico me permita indicar si requiero que lo envu
 
 # PATRONES DE DISEÑOS USADOS
 
-1. Factory Method
-2. Strategy
+1. Strategy
 3. Observer
-4. Decorator
-5. Commands
